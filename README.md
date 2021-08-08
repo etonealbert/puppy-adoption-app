@@ -1,13 +1,11 @@
-![GitHub Cards Preview](https://github.com/Spikeysanju/Wiggles/blob/main/art/GITHUB-COVER.png?raw=true)
-
 # Wiggles 🐶
-Beautiful Puppy adoption app built to Demonstrate the Jetpack Compose UI for Android Dev Challenge *Made with love ❤️ by [Spikeysanju](https://github.com/Spikeysanju)*
+Beautiful Puppy adoption app built to Demonstrate the Jetpack Compose UI for Android Dev Challenge *Made with love ❤️ by [etonealbert](https://github.com/etonealbert)*
 
 <br />
 
 ***Try latest Wiggles app apk from below 👇***
 
-[![Wiggles](https://img.shields.io/badge/Wiggles-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/Spikeysanju/Wiggles/releases/download/v1.0.0-alpha01/Wiggles.apk)
+[![Wiggles](https://img.shields.io/badge/Wiggles-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/etonealbert/puppy-adoption-app/releases/download/v1.0.0-alpha01/Wiggles.apk)
 
 <br />
 
@@ -22,14 +20,14 @@ Beautiful Puppy adoption app built to Demonstrate the Jetpack Compose UI for And
 ## Day Mode 🌞
 Home | Details | Details (Scrolled)
 --- | --- | --- |
-![](https://github.com/Spikeysanju/Wiggles/blob/main/art/Home.png) | ![](https://github.com/Spikeysanju/Wiggles/blob/main/art/Details.png) | ![](https://github.com/Spikeysanju/Wiggles/blob/main/art/Details-Scrolled.png)
+![](https://github.com/etonealbert/puppy-adoption-app/blob/main/art/Home.png) | ![](https://github.com/etonealbert/puppy-adoption-app/blob/main/art/Details.png) | ![](https://github.com/etonealbert/puppy-adoption-app/blob/main/art/Details-Scrolled.png)
 
 <br />
 
 ## We Support Dark Mode Too 🌚
 Home | Details | Details (Scrolled)
 --- | --- | --- |
-![](https://github.com/Spikeysanju/Wiggles/blob/main/art/Dark-Home.png) | ![](https://github.com/Spikeysanju/Wiggles/blob/main/art/Dark-Details.png) | ![](https://github.com/Spikeysanju/Wiggles/blob/main/art/Dark-Details-Scrolled.png)
+![](https://github.com/etonealbert/puppy-adoption-app/blob/main/art/Dark-Home.png) | ![](https://github.com/etonealbert/puppy-adoption-app/blob/main/art/Dark-Details.png) | ![](https://github.com/etonealbert/puppy-adoption-app/blob/main/art/Dark-Details-Scrolled.png)
 
 <br />
 
@@ -59,14 +57,14 @@ Checkout the iOS version of this app <a href="https://github.com/sameersyd/Wiggl
 
 ## Contribute 🤝
 If you want to contribute to this app, you're always welcome!
-See [Contributing Guidelines](https://github.com/Spikeysanju/Wiggles/blob/main/CONTRIBUTING.md).
+See [Contributing Guidelines](https://github.com/etonealbert/puppy-adoption-app/blob/main/CONTRIBUTING.md).
 
 <br>
 
 ## Contact 📩
 Have an idea to improve this or got any Question? Let's connect 👇
 
-Drop a mail to:- spikeysanju98@gmail.com
+Drop a mail to:- albert.lukmanov99@gmail.com
 
 <br>
 
